@@ -23,3 +23,7 @@ O objetivo principal foi colocar em prática ferramentas da OO: <strong>ABSTRAÇ
 - HERANÇA
 
 - POLIMORFISMO
+
+
+## 👩‍💻 Autoria
+Projeto por Beatriz Vitória (@BeatrizM03) ✨
